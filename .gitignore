@@ -1,0 +1,7 @@
+**pycache**/
+venv/
+env/
+.ipynb_checkpoints/
+Thumbs.db
+Dataset/
+*.log
